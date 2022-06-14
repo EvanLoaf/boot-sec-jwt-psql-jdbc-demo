@@ -1,0 +1,22 @@
+EX: https://mkyong.com/spring-boot/spring-boot-jdbc-examples/
+https://github.com/mkyong/spring-boot/blob/master/spring-jdbc/src/main/java/com/mkyong/customer/CustomerRepository.java
+https://www.baeldung.com/spring-jdbc-jdbctemplate
+https://github.com/eugenp/tutorials/blob/master/persistence-modules/spring-jdbc/src/main/java/com/baeldung/spring/jdbc/template/guide/EmployeeDAO.java
+https://spring.io/guides/gs/relational-data-access/
+
+SPRING-BOOT-STARTER-JDBC
++JDBCTEMPLATE ON PSQL QUERIES
+
+
+ALL DOGWATER !!!! SPRING DATA JDBC !!!!
+https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/
+
+many-to-many
+https://www.youtube.com/watch?v=5rqlqon8xko
+https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates
+
+SPRING JDBC: 
+----EITHER WITH CrudRepository or Repository
+(def methods + own @Query)
+----OWN stuff with JdbcTemplate
+https://mkyong.com/spring-boot/spring-boot-jdbc-examples/
